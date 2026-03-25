@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\SalaB-09\cosasVsCode\venv"
+VIRTUAL_ENV="C:\Users\SalaB-04\Documents\cosasVsCode\modeloBasura\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
